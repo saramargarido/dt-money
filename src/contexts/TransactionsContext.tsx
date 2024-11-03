@@ -32,6 +32,7 @@ export function TransactionsProvider({ children }: TransactionsProviderProps) {
   useEffect(() => {
     loadTransactions();
   }, []);
+
   return (
     <TransactionsContext.Provider value={{ transactions }}>
       {children}
