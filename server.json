@@ -15,14 +15,6 @@
       "category": "Alimentação",
       "price": 50,
       "createdAt": "2024-11-03T16:01:28.394Z"
-    },
-    {
-      "id": 3,
-      "description": "Hamburger",
-      "type": "outcome",
-      "category": "Alimentação",
-      "price": 50,
-      "createdAt": "2024-11-03T16:01:28.394Z"
     }
   ]
 }
