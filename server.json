@@ -39,6 +39,14 @@
       "category": "Alimentação",
       "type": "outcome",
       "createdAt": "2024-11-04T20:10:36.212Z"
+    },
+    {
+      "id": "d802",
+      "description": "Job",
+      "price": 1234,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2024-11-04T21:02:42.802Z"
     }
   ]
 }
